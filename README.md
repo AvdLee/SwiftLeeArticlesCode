@@ -19,7 +19,13 @@ Here's a list of articles and their corresponding code examples.
 | [SwiftUI Button: Custom Styles, Variants, and Best Practices](https://www.avanderlee.com/swiftui/swiftui-button-styles/) | [SwiftUI/Buttons](SwiftUI/Buttons)
 
 ### Contributing
-I'd love to receive contributions on code examples. Feel free to open a PR if you see improvements or have ideas for additions to my articles.
+I'd love to receive contributions on code examples. Feel free to open a PR if you see improvements to code examples. Your suggested changes will be used to perform updates on existing articles.
+
+Here are other actions you can take:
+
+- [Provide article feedback by opening an issue](https://github.com/AvdLee/SwiftLeeArticlesCode/issues/new?assignees=AvdLee&labels=article+improvement&projects=&template=article-feedback.md&title=)
+- [Ask follow-up questions for an article](https://github.com/AvdLee/SwiftLeeArticlesCode/discussions/new?category=q-a)
+- [Suggest a new article topic](https://github.com/AvdLee/SwiftLeeArticlesCode/discussions/new?category=article-ideas)
 
 Thanks,
 
