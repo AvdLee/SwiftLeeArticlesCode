@@ -1,3 +1,5 @@
+<img src="Assets/swiftlee_logo.png" width="720"/>
+
 # Code from SwiftLee Articles
 Welcome to the code repository for SwiftLee Articles.
 This repository contains part of the code examples from articles written at [avanderlee.com](https://www.avanderlee.com).
