@@ -17,6 +17,7 @@ Here's a list of articles and their corresponding code examples.
 | Article | Code Examples |
 | --- | --- |
 | [SwiftUI Button: Custom Styles, Variants, and Best Practices](https://www.avanderlee.com/swiftui/swiftui-button-styles/) | [SwiftUI/Buttons](SwiftUI/Buttons)
+| [SwiftUI Lists: Present rows of data explained with code examples](https://www.avanderlee.com/swiftui/list-style-selection/) | [SwiftUI/Lists](SwiftUI/Lists)
 
 ### Contributing
 I'd love to receive contributions on code examples. Feel free to open a PR if you see improvements to code examples. Your suggested changes will be used to perform updates on existing articles.
